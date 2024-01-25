@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec18a15438a1a384dbc4e485d9f7dcce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - health: {instanceID: 0}
+  - characterController: {instanceID: 0}
+  - scoreEvent: {instanceID: 0}
+  - gameStartEvent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
